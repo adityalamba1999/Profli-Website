@@ -1,0 +1,19 @@
+packages:
+  "framer-motion": "For high-quality scroll and page transition animations"
+  "@hookform/resolvers": "For Zod form validation in the signup modal"
+  "react-hook-form": "For robust form state management"
+
+images:
+  - path: "artifacts/avatarpro/public/images/hero-dashboard.png"
+    description: "Modern SaaS dashboard mockup showing a grid of AI-generated professional LinkedIn profile headshots with clean UI elements, white and blue color palette, glowing accents and glassmorphism."
+    aspect_ratio: "16:9"
+  - path: "artifacts/avatarpro/public/images/network-node.png"
+    description: "Abstract 3D network node representing verified social connections, clean white background, professional blue glassmorphic materials, high-end 3D render."
+    aspect_ratio: "1:1"
+  - path: "artifacts/avatarpro/public/images/ai-brain-resume.png"
+    description: "AI brain icon glowing over a stylized resume document, clean SaaS illustration style, corporate blue and slate colors, minimal background."
+    aspect_ratio: "1:1"
+
+notes:
+  - This is a frontend-only application using local state/simulated API calls for the waitlist form.
+  - Using framer-motion for all scroll-triggered entry animations to create a premium feel.
